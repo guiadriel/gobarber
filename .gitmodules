@@ -1,0 +1,2 @@
+[submodule "backend"]
+	url = git@github.com:guiadriel/gobarber-backend.git
