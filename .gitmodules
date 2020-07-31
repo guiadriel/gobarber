@@ -1,2 +1,6 @@
 [submodule "backend"]
 	url = git@github.com:guiadriel/gobarber-backend.git
+[submodule "appgobarber"]
+	url = git@github.com:guiadriel/gobarber-appgobarber.git
+[submodule "web"]
+	url = git@github.com:guiadriel/gobarber-web.git
